@@ -45,7 +45,7 @@ spec:
     spec:
       containers:
       - name: mycontainer
-        image: httpd
+        image: arun878/httpd:latest
         volumeMounts:
           - name: data-vol-http
             mountPath: /var/www/html/
