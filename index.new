@@ -1,6 +1,7 @@
-<?php
-    print("<h1>Hello</h1>");
-    print("Image");
-    print("<img src='webdata/im.jpg' width=600 height=600>");
-
-?>
+<html>
+    <body>
+        <h1>Hello</h1>
+        <h2>World</h2>
+        <img src='webdata/im.jpg' width="600" height="600">
+    </body>
+</html>>
